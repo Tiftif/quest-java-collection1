@@ -1,4 +1,6 @@
-public class Hero {
+
+
+public class Hero  {
 
     // attributs
     private String name;
